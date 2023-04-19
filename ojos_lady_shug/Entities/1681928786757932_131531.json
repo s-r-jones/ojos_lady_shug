@@ -1,0 +1,20 @@
+{
+    "1681928786757932:131531": {
+        "IResourceController": {
+            "name": "fx",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681928786758173:131532",
+            "resources": []
+        }
+    },
+    "1681928786758173:131532": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/fx"
+            }
+        }
+    }
+}

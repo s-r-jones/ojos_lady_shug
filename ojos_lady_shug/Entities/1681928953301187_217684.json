@@ -1,0 +1,50 @@
+{
+    "1681928953301187:217684": {
+        "IResourceController": {
+            "name": "la_fonda",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1681928956000289:218983",
+            "publicId": "1681928956252325:219097",
+            "expected_hash": "28fb8b72ae7e582cc620ed688592a47c",
+            "resources": [
+                "1681928955597780:218695",
+                "1681928955639077:218729",
+                "1681928955966599:218949"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "main",
+                        "v": "1681928955640246:218732"
+                    }
+                ]
+            }
+        }
+    },
+    "1681928956000289:218983": {
+        "IFileManager": {
+            "path": "Files/File_1681928956000289_218983.fbx"
+        }
+    },
+    "1681928956252325:219097": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/models/la_fonda.fbx",
+                "hash": "28fb8b72ae7e582cc620ed688592a47c"
+            }
+        }
+    }
+}

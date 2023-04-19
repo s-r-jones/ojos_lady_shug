@@ -1,0 +1,91 @@
+{
+    "1681929047064571:266434": {
+        "IFileManager": {
+            "path": "Files/File_1681929047064571_266434.pvr"
+        }
+    },
+    "1681929047065410:266435": {
+        "IResourceController": {
+            "name": "texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681929047066046:266436",
+            "fileId": "1681929047064571:266434",
+            "originalId": "1681929047066563:266441",
+            "publicId": "1681929047107730:266461",
+            "expected_hash": "ac1b011f6731b9166860b392476f772c",
+            "additional": {
+                "originHash": "94645ecb5e90bb4bfe9b9e782cd508e7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1681929047066046:266436",
+            "name": "Files/File_1681929047064571_266434.jpg",
+            "flags": 1
+        }
+    },
+    "1681929047066046:266436": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "44e7933a7156105205fa3d93fd5c7741"
+                    },
+                    "v": "1681929047951204:268607"
+                },
+                {
+                    "k": {
+                        "settings_hash": "3073",
+                        "uncompressed_hash": "44e7933a7156105205fa3d93fd5c7741"
+                    },
+                    "v": "1681929143359238:319495"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1422303",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "544147",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1681929047091883:266455"
+        }
+    },
+    "1681929047066563:266441": {
+        "IFileManager": {
+            "path": "Files/File_1681929047066563_266441.jpg"
+        }
+    },
+    "1681929047091883:266455": {
+        "IFileManager": {
+            "path": "Files/File_1681929047091883_266455.jpg"
+        }
+    },
+    "1681929047107730:266461": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/la_fonda/Materials/texture.jpg",
+                "hash": "94645ecb5e90bb4bfe9b9e782cd508e7"
+            }
+        }
+    },
+    "1681929047951204:268607": {
+        "IFileManager": {
+            "path": "Files/File_1681929047951204_268607.jpg"
+        }
+    },
+    "1681929143359238:319495": {
+        "IFileManager": {
+            "path": "Files/File_1681929143359238_319495.pvr"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1681928955966599:218949": {
+        "IResourceController": {
+            "name": "la_fonda",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681928955966537:218933",
+            "fileId": "1681928955997855:218976",
+            "originalId": "1681929108580427:300466",
+            "expected_hash": "859f20c2ee16efc07a64a41507b004b8"
+        },
+        "IResourceManager": {
+            "uid": "1681928955966537:218933",
+            "name": "la_fonda",
+            "flags": 0
+        }
+    },
+    "1681928955997855:218976": {
+        "IFileManager": {
+            "path": "Files/File_1681928955997855_218976.oprfb"
+        }
+    },
+    "1681929108580427:300466": {
+        "IFileManager": {
+            "path": "Files/File_1681929108580427_300466.oprfb"
+        }
+    }
+}

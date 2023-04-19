@@ -1,0 +1,20 @@
+{
+    "1681928807819934:140723": {
+        "IResourceController": {
+            "name": "prefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681928807820112:140724",
+            "resources": []
+        }
+    },
+    "1681928807820112:140724": {
+        "IResourceController": {
+            "public": {
+                "path": "Assets/prefabs"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1681928955639485:218730": {
+        "IFileManager": {
+            "path": "Files/File_1681928955639485_218730"
+        }
+    },
+    "1681928955640239:218731": {
+        "IResourceController": {
+            "name": "main",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681928955640246:218732",
+            "fileId": "1681928955639485:218730",
+            "originalId": "1681928955670482:218749",
+            "publicId": "1681928956325284:219284",
+            "expected_hash": "e4a532e818d19bff1f8ad859b19e40bd"
+        },
+        "IResourceManager": {
+            "uid": "1681928955640246:218732",
+            "name": "Files/File_1681928955639485_218730",
+            "flags": 1
+        }
+    },
+    "1681928955670482:218749": {
+        "IFileManager": {
+            "path": "Files/File_1681928955670482_218749.lsmat"
+        }
+    },
+    "1681928956325284:219284": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/la_fonda/Materials/main.lsmat",
+                "hash": "c30a3c6137706953e610cd33b9e8dbdc"
+            }
+        }
+    }
+}

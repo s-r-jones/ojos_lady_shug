@@ -1,0 +1,23 @@
+{
+    "1681928955639077:218729": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681928956324880:219280",
+            "resources": [
+                "1681928955640239:218731",
+                "1681929047065410:266435"
+            ]
+        }
+    },
+    "1681928956324880:219280": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Assets/models/la_fonda/Materials"
+            }
+        }
+    }
+}
